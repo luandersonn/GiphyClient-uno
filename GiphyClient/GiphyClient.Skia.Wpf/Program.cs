@@ -1,0 +1,4 @@
+﻿
+namespace GiphyClient.Skia.Gtk
+{
+}
